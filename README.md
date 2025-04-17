@@ -93,6 +93,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 📄 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
-🔥 Short 1-line Summary for GitHub Title/Tagline:
+
 
     "A machine learning-based project for predicting heart disease using patient medical records and clinical data."
